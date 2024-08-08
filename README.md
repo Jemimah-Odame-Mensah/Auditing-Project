@@ -40,9 +40,16 @@ Conduct an internal security audit for Botium Toys to assess the company’s IT 
 ### 4. Documentation and Reporting:
 - Documented findings, including identified risks, non-compliance issues, and recommendations for improvement.
 - Compiled a comprehensive audit report summarizing the security posture of Botium Toys and suggested action plans.
+- <a href="https://docs.google.com/document/d/1sWV1ljQTq3_BKBpe-YC6jaQZ1XnHwSganezDMraa_pM/edit?usp=sharing">Link to Documentation and Report</a>
 
 
 ## Key Findings
 
 - Compliance Gaps: Identified specific areas where Botium Toys' current practices do not fully align with NIST CSF standards.
-- Controls and Compliance Checklist: Utilized to perform the internal audit, ensuring thorough coverage of compliance requirements.
+- Risk Areas: Highlighted potential risks related to online payment processing and data protection, especially concerning E.U. regulations.
+- Recommendations: Provided actionable recommendations to enhance security and compliance, including policy updates and infrastructure improvements.
+
+## Conclusion
+
+The internal security audit for Botium Toys provided critical insights into the company's IT security posture. By addressing the identified risks and compliance gaps, Botium Toys can better secure its infrastructure and continue to grow its online presence safely and in compliance with international regulations.
+
