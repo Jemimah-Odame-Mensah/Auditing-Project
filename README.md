@@ -1,5 +1,7 @@
 # Internal Security Audit for Botium Toys
 
+As part of my cybersecurity training, I conducted an internal security audit for a fictional company, Botium Toys, to assess IT infrastructure risks and compliance with E.U. regulations. Using the NIST Cybersecurity Framework and a compliance checklist, I identified vulnerabilities, compliance gaps, and proposed actionable recommendations to enhance security and support business growth. This project demonstrated my expertise in risk assessment, compliance auditing, and IT governance.
+
 ## Project Background
 
 Botium Toys, a fictional company, is a small U.S.-based business that develops and sells toys. With a growing online presence, the company's IT department faces increasing pressure to support worldwide operations. The IT manager has recognized the need for an internal security audit to ensure compliance with regulations, particularly those concerning online payment processing and business operations within the European Union (E.U.).
