@@ -38,8 +38,7 @@ Conduct an internal security audit for Botium Toys to assess the company’s IT 
 ### 3. Execution of the Audit:
 - Conducted the internal audit by systematically assessing each control category.
 - Checked compliance with NIST CSF guidelines and identified areas of non-compliance or potential risk.
-- <a href="https://docs.google.com/document/d/1sWV1ljQTq3_BKBpe-YC6jaQZ1XnHwSganezDMraa_pM/edit?usp=sharing">Link to audit performed using controls and compliance checklist
-</a>
+- <a href="https://docs.google.com/document/d/1dHyD8vjG6aUhg7txQH9Ze39LaJ5IFnuXt9jYnrxJ8lU/edit?usp=sharing">Link to audit performed using controls and compliance checklist</a>
 
 ### 4. Documentation and Reporting:
 - Documented findings, including identified risks, non-compliance issues, and recommendations for improvement.
