@@ -44,7 +44,7 @@ Conduct an internal security audit for Botium Toys to assess the company’s IT 
 ### 4. Documentation and Reporting:
 - Documented findings, including identified risks, non-compliance issues, and recommendations for improvement.
 - Compiled a comprehensive audit report summarizing the security posture of Botium Toys and suggested action plans.
-- <a href="https://docs.google.com/document/d/1sWV1ljQTq3_BKBpe-YC6jaQZ1XnHwSganezDMraa_pM/edit?usp=sharing">Link to Documentation and Report</a>
+- <a href="https://docs.google.com/document/d/1CuOqIdAdRYtyokHgV0SPrNlMeEsRvdtbpjyxPOwHaLw/edit?usp=sharing">Link to Documentation and Report</a>
 
 
 ## Key Findings
